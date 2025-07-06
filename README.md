@@ -14,11 +14,11 @@ Sistema para controle de sintomas de pessoas que sofrem de dor crônica. Atravé
 
 ## 🛠️ Instalação
 
-1. Clone o repositório:
+1. Clone o repositório:<br>
 git clone https://github.com/seunome/seuprojeto.git
 
-2. Instale as dependências python
+2. Instale as dependências python:<br>
 pip install -r requirements.txt
 
-3. Rode a aplicação
+3. Rode a aplicação:<br>
 python main.py
