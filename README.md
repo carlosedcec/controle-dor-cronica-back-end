@@ -22,3 +22,5 @@ pip install -r requirements.txt
 
 3. Rode a aplicação:<br>
 python main.py
+
+4. Acesse o sistema através da [aplicação front-end](https://github.com/carlosedcec/controle-dor-cronica-front-end)
